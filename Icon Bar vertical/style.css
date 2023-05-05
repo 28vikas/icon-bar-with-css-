@@ -1,0 +1,57 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.navbar {
+    width: 90px;
+    background-color: darkgray;
+    display: flex;
+   
+    align-items: center;
+    flex-direction: column;
+    overflow: hidden;
+ 
+  
+}
+
+
+.navbar a{
+      
+    padding: 30px 32px;
+    display: block;
+    color: white;
+    font-size: 36px;
+}
+
+
+.navbar a:hover{
+  background-color: black;
+  transition: all .8s ease;
+}
+
+
+.active{
+    background-color: #04AA6D;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

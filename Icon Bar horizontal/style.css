@@ -1,0 +1,54 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.navbar {
+    width: 100%;
+    background-color: darkgray;
+    display: flex;
+    justify-content: center;
+ 
+  
+}
+
+
+.navbar a{
+   
+    padding: 20px 80px;
+    display: block;
+    color: white;
+    font-size: 36px;
+}
+
+
+.navbar a:hover{
+  background-color: black;
+  transition: all .8s ease;
+}
+
+
+.active{
+    background-color: #04AA6D;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
